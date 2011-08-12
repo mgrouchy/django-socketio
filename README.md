@@ -48,7 +48,7 @@ django_gunicorn --worker-class django_socketio.gunicorn.workers.GeventSocketIOWo
 
 Ensure you have a view with the endpoint
 
-yourwebsite.com/socket.io and you are good to go from djano side of things
+yourwebsite.com/socket.io and you are good to go from django side of things
 
 
 
