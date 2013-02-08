@@ -3,11 +3,8 @@ Django Socket.io
 
 #### A socketio implementation for django
 
-
-This is pretty beta quality right now, gevent-websocket and gevent-socketio are
-dependencies.
-
-This documentation is just a place holder for real documentation
+*As an advisement I would not use this for anything, this was a proof of concept
+it doesn't work very well and is left here only for posterity.*
 
 
 #### Using it
